@@ -12,8 +12,11 @@
 ![](https://streak-stats.demolab.com/?user=yunlongliu9&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yunlongliu9&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> 💡 *"Not seeking instant perfection, but daily progress."*
+> 
+> — **Yunlong Liu**
+
+
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/liuyunlong589)
   
