@@ -69,7 +69,8 @@
 # ☁️ Certifications
 [![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20%E2%80%93%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/verification) 
 
-🏆 AWS Certified Solutions Architect – Associate (Issued: Dec 2025 – Exp: Dec 2028)
+### 🏆 AWS Certified Solutions Architect – Associate (Issued: Dec 2025 – Exp: Dec 2028)
+
 Validation Number: 972d8057b10a4c3f979b8ff141886f86
 
 
