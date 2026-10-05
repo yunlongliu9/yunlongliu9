@@ -1,6 +1,20 @@
-# 💫 About Me:
-🔭 My name is Yunlong Liu from China and live in Germany now. I'm currently working on building my personal blog project powered by AI agents.<br>🤝 I'm looking to collaborate on developing a rapid big-data public opinion collection system for privacy-compliant democratic voting in Germany (using Python, big data, and word cloud technologies).<br>🌱 I'm currently learning TypeScript and PostgreSQL, and applying them to my new projects.<br>💬 Ask me about psychology, social events, cosmology, health & wellness, table tennis, and breaststroke swimming.<br>⚡ Fun fact: A sociology-loving engineering student who cares deeply about social facts, democratic progress, and production relations. (Motto: Not seeking instant perfection, but daily progress.)
+# 💫 About Me
 
+🔭 I'm Yunlong Liu, a Computer Science master's student in Germany, focusing on **Cloud Computing, Distributed Systems, and Backend Engineering**.
+
+⚙️ I enjoy understanding how systems work under the hood. My recent work includes building **RPC mechanisms, distributed systems, backend services, and cloud-native applications**.
+
+🤖 I'm currently exploring **AI Agents and automation**, and building personal projects that combine AI with real-world information systems.
+
+🌱 Currently learning and working with **TypeScript, PostgreSQL, and modern AI/Agent technologies** alongside my main Java/Python stack.
+
+🤝 I'm interested in collaborating on **open-source projects involving distributed systems, cloud infrastructure, backend engineering, or AI agents**.
+
+💬 Outside engineering, I'm interested in **sociology, psychology, cosmology, environmental issues, table tennis, and swimming**.
+
+🐱 Also: I really like cats.
+
+> 💡 *Not seeking instant perfection, but daily progress.*
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viendejimmy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunlong-liu-b091602a3)
