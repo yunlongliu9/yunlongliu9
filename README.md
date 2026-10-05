@@ -74,9 +74,23 @@
 Validation Number: 972d8057b10a4c3f979b8ff141886f86
 
 
+## TODO
 
+- [ ] Refactor RPC transport layer
 
+- [ ] Clean up serialization module
 
+- [ ] Add AMO / LOM invocation semantics
+
+- [ ] Add integration tests
+
+- [ ] Add benchmarks
+
+- [ ] Add CI pipeline
+
+- [ ] Rewrite README
+
+- [ ] Add architecture diagram
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=yunlongliu9&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
