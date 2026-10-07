@@ -93,12 +93,9 @@ Validation Number: 972d8057b10a4c3f979b8ff141886f86
 - [ ] Add architecture diagram
 
 
-
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=yunlongliu9&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&hide=prs,issues,contribs)<br/>
-
-![](https://streak-stats.demolab.com/?user=yunlongliu9&theme=transparent&hide_border=false)<br/>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yunlongliu9&theme=transparent&hide_border=false&layout=compact)
 
