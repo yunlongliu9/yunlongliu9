@@ -92,6 +92,25 @@ Validation Number: 972d8057b10a4c3f979b8ff141886f86
 
 - [ ] Add architecture diagram
 
+# 🚀 Featured Projects
+
+<a href="https://github.com/yunlongliu9/verteilte-system">
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunlongliu9&repo=verteilte-system&theme=transparent" />
+
+</a>
+
+<a href="https://github.com/yunlongliu9/myblog">
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunlongliu9&repo=myblog&theme=transparent" />
+
+</a>
+
+<a href="https://github.com/yunlongliu9/german-info-pusher">
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yunlongliu9&repo=german-info-pusher&theme=transparent" />
+
+</a>
 
 # 📊 GitHub Stats
 
